@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">IOToys</string>
+    <string name="action_connect">Connect</string>
+
+    <string name="key_scan_btn">_pref_scan_btn</string>
+    <string name="shared_prefs_application">_shared_prefs_application</string>
+    <string name="key_device_to_connect" >_pref_device_to_connect</string>
+    <string name="key_devices_list">_pref_devices_list</string>
+    <string name="pref_bluetooth_device_to_connect">_pref_bluetooth_device_to_connect</string>
+    <!-- The title of the category for unpaired bluetooth devices available to pair with. -->
+    <string name="pref_bluetoothServer">Setup as server</string>
+    <string name="pref_bluetoothAvailable">Available devices</string>
+    <!-- Title of the list item to be clicked on when the user wants to trigger a new bluetooth device discovery process. -->
+    <string name="pref_bluetoothScan">Scan for nearby devices</string>
+    <string name="title_devices">title_devices</string>
+    <string name="ble_not_supported">ble_not_supported</string>
+    <string name="error_bluetooth_not_supported">error_bluetooth_not_supported</string>
+    <string name="unknown_device">unknown_device</string>
+    <string name="unknown_service">unknown_service</string>
+    <string name="unknown_characteristic">unknown_characteristic</string>
+    <string name="connected">connected</string>
+    <string name="disconnected">disconnected</string>
+    <string name="no_data">no_data</string>
+
+</resources>
